@@ -32,8 +32,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/mongodb-backup-utility.git
-cd mongodb-backup-utility
+git clone https://github.com/TheVinaySagar/Database-Backup-Utility.git
+cd Database-Backup-Utility
 ```
 
 2. Install dependencies:
